@@ -10,5 +10,6 @@ Upon selection of a test subject ID number in a dropdown list, the ID demographi
 3. Create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. 
 4. Customize the dashboard:
 * Add an image to the jumbotron
-* Change the layout of the page
+* Add background color to the webpage
+* Change the layout of the webpage
 * Make the webpage mobile-responsive
