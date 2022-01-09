@@ -97,11 +97,13 @@ function buildCharts(sample) {
         title: "Top 10 Bacteria Cultures Discovered",
         xaxis: { title: "Sample Value" },
         yaxis: { title: "OTU ID" },
+        width: 455, 
+        height: 390,
         margin: {
           l: 100,
-          r: 0,
-          t: 100,
-          b: 100
+          r: 50,
+          t: 75,
+          b: 75
         }
     };
     
@@ -129,10 +131,10 @@ function buildCharts(sample) {
         xaxis: { title: "OTU ID" },
         yaxis: { title: "Sample Value" },
         margin: {
-            l: 50,
+            l: 75,
             r: 50,
-            t: 30,
-            b: 100
+            t: 75,
+            b: 75
         }
     };
 
@@ -171,12 +173,12 @@ function buildCharts(sample) {
     
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
-        width: 550, 
-        height: 550, 
+        width: 450, 
+        height: 390,
         margin: { 
             l: 50,
-            r: 100,
-            t: 0, 
+            r: 50,
+            t: 50, 
             b: 50 
         }
     };
