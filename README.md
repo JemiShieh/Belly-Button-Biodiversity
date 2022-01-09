@@ -3,7 +3,7 @@ Use JavaScript, HTML, CSS, and Plotly to build interactive charts with a belly b
 
 Test subjects will be able to identify the top 10 bacterial species in their belly buttons so that if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, they will be able to identify whether that species is found in their navel.
 
-Upon selection of a test subject ID number in a dropdown list, the ID demographic information will be displayed, the ID top 10 bacterial samples will be displayed in a horizontal bar chart, the ID bacterial samples will be displayed in a bubble chart, and the ID belly button washing frequency will be displayed in a gauge chart.
+Upon selection of a test subject ID number in a dropdown list, the ID demographic information will be displayed, the ID top 10 bacterial species will be displayed in a horizontal bar chart, the ID bacterial species per sample will be displayed in a bubble chart, and the ID belly button washing frequency will be displayed in a gauge chart.
 
 1. Create a horizontal bar chart to display the top 10 bacterial species when a test subject ID is selected from the dropdown menu on the webpage.
 2. Create a bubble chart that will display the bacteria species per sample when a test subject ID is selected from the dropdown menu on the webpage.
